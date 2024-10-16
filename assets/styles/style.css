@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+img {
+    max-width: 50%;
+    max-height: 80%;
+}
+
+.health-display {
+    font-size: x-large;
+}
